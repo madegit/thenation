@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="205px" height="100px" viewBox="0 0 205 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#706C67" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="191 80 193 80 193 92 193 94 191 94"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="newarticle-sprite">
+                <g transform="translate(0.000000, 1.000000)">
+                    <image id="play" x="2" y="0" width="53" height="41" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAApCAYAAACV8mGQAAAABGdBTUEAALGPC/xhBQAAAzBJREFUaAXtmk1IG0EUx3d2F6E96BpJ7SENmtZz1fSspbSUViuIB4sICiJ4sBpFKwqCh14EK0QQQajERsQiCiL02FNB6ActtLbU7yRoNclukr2Uxma3b8ApaBXTzH4FOpe3O2/m7f83b3eyMxvEQFm12y//SCafIFWtUBEqZFT1Iq63ekEMo4DefbDbCKHnZR6PDw0NKeiDIAiKonxTGeaS1SHO0wdgL9yJxEP0Ljf3KTTuPq9DtvhZlq1kga4yWwSnpVNRKli47a6l1ThLGsEzVszCpJCXJXrTlZnHptsym9r9hzo1WwjJp9abWEmdqes7O+v2trYx+AHcM5Hj2KWpoXhBcDuHhzvKJGmtsLXVC9G/H7uCCSfUUEQz4ribjpGRznJJ+mpvaRmD+n3iM9pqBkWEA9wt5+hoh1uSPtubm3HmDIfTHIrAMRx32+n1dgLcJ3tjI4Y7+OPT+UA/KCKc4+44x8cx3MeChgYvTChh4tLL6g9FlHPc3aKJCfzMvS+or8dwEeLS2hoHRZRz3L2iycnOMlF8m19Xpwuc8VBHcIjn77umpjDcG1ttLZ4to4Sb1poGRYQDXFWxz/fILYor+TU1eEIRiS9TazrUkXDE8PwDl9/fAXCvhepqnLmM4fDKF5ZUmRdYPmfe+eyeqppMLq2Wljp+7u7eOLvZ3x5Y9C5YJVPH1B1GIhtbTU3l/wpEgvDkwAr2VzS6HvR4cmLLyyU0eiwBlRLFjUBXV05saYkKhgyEqVCpWGwz2N3NS4uLmu6TmAKVkqStQE8PF1tYuEpGV0trKBRkZjvY24uk+XmXlhAnYxkClYrHt0N9fUicmys+KUCPc12hACYQ6u9XxdlZQ2DIAOkCpSQSgdDAgBKdmTEURhcoRZaDAJOK+v2mwGgKlZLl0O7g4GFketoFO74ktmmW+vYLtLeH4Ta7YgUYMorUL7QkkFWsZV9oaQfIkm/p1FCQrjhtEIv1T+CPbmsWE0UrZ4uFL/IvaaNYqT/sEL9ibTbbMGKYL1YSlqkW4PDBvuIKWIYJORwXwrL8mEGoCk5LVFUVMg1sZD8Qj/9HsQd2E+aGZ+XxuB9f/zcJzAL+OfsvggAAAABJRU5ErkJggg=="></image>
+                    <image id="Shape" x="96" y="0" width="21" height="17" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAAABGdBTUEAALGPC/xhBQAAAldJREFUOBGVUz1oU1EU/u4NUdBC0aoV0T6NVZo8nRwUB0GKKIK17rqoFBHcHIt0EKGTgygO0kGo4FKLuggWHQQpUopCkhppaJ4d1EU6tLZ56b1+95mb3Ly0Kd7hnb/vfPece84T37qxc6WM8wI4CY1rGkiAh3ahTeCEF+C3se35ehg7wjLOCIVDxN5kTqeJCYEP1EchMcnc+pnxcHpVYYLgyE/gRCaFc+I9KnVUXZtNof1PBQV6sn4JvcQzFeR1Tk8J70j31rq0Rm+uiAfWjsuDRSzw9ocke2IJDaaBNEoSeEl5N9L5IfGNbBduWXsNmRcS866/iZQ3L/sB7hA0VgNq3M/vx9ma7ShSYJ5DWHBca1TKqGll+y5coZw2YDM8pfC84CHtJhtdsQjOIRqujTVVagN7prC0OYmLJP5hfHyG9rLG63wPOizGSJlARQskG3yuYXSl/03e6N2z+M5e+km8bGyWnFKLGNPH6iRSIWS5rUmjZOfjz2GS11y3Lj7FqdwvPLa2XEWY2KhSC3Yld3CUE75nfSS+mvVw29jlJEK9UaWcfrT4lsDKzBwGGRi3NlseznfhQiLkm8r/bN+SmI3o2IbLtD8bH6uVfP9nSsBnGa3flFPeaonicvcXLIok+kjys0rcRuJxtr/JxTatFFv0XUBc94sIOJhLrHylGtvSstIZDwcIPB4nitvpEj7y8oGaf71BsW1R0RjiWx0xA6glrKNkAjzlLzpswvHlF9l96OO67CVpP+NHqxzkxiu2+EloTKcDTFX9DUIPQeZG8IK4N5kSHtngX33erDrasd37AAAAAElFTkSuQmCC"></image>
+                    <image id="Group-4" x="0" y="57" width="55" height="42" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAAqCAYAAAAXk8MDAAAABGdBTUEAALGPC/xhBQAABFZJREFUaAXdWl1IU1Ec/597d/fhsummcxkWOcVERRhF6ENvYWEUvtSD0EtQPacPpi8mPYgQUr70VAR9PCzoJYiKPhAqMEgjLCFaakQZzjadm5u793TOaXco3Du3e7fZ9od7zzn/j3P+v/PxP+d+IEjQR7u9JiaKl0mxmVyV5BISov8+wQBrCGAOEPpk5LiRlqWl79RpwgOYstub4qI4ARiX0HJBE0JhDqFjnkBgnKNACLCxogBGwZABkjC+hjFG6ENVlXU9EglRfjGRxWTaxYnRaF0xgZKxRCRpL4cwdsqMYkp5SXKwNVdMoDZiKW5wYmI72Ii4WPIcT4JntsCQTTNrdWXDp6xOS4KMHQr+F5BZBSf39iaQHAe2o0dlkWqKBAF2tLeryrUIcgJOdoSCLO/qArPbnXK6IqMR3HfvQv3Dh2A9eFA2153mFBz1znXxIl2IbLqSoiJIfudOsDQ3A2c2g/vePaDlbFBOwdk6OqCEOL2BNq1JoaqKieKLi/C1uxuwKILgdIKrt3eDifZsTsG5enoUPaMjaXK7ofHVK+w8f57phCcnwU+mJiXnhQtgcDhYXs/NoNW4pLWVeGhSNTfX1cGOQ4dU5eUnT4JQXY12Dw7C8rNneM3nQ79GR6HizBngSL1lJ07A4q1bqvbpCDSD20caJoEinTYUdRbGxsB+6hRYGhth18AA+nb2LMR8PhyZnkaWpiYoO35cN7icTktFVAkmXl8H/507rFTW2Ql0K6DTNTQxwXgUtF7SPHKI50FcWUmrfaGiQlEvMjMD4uoqk1nb2iA0Ps6CCuXxNhuNmlhcXpYjrWIdqZgGrWdLGtn40tJUdSdl6yQaKhEiGzxvtTKR6PezFEejSZ60Rl+NaKesni0zdcPS0sJMaEdF5+dZ3pAY5XggADgWy7TKTfrbtuZopHWQvY1S6M0bkBJT3OrxMF5sdpalem7bBq66ry8ZbReuX2cYjDU1YK6vZ/ng8+d6cDFbzQHl8+HDQNeMGplqa2H/y5eqOuHpaRY8go8fQ/DpU1ZN5blzyeooXy9pBieFUr8wC09NwZLXC47TpxV9/PPgAZuKK69fM7ngckEl2esohd6+hdV371hez0296/XUmrD9OTzMRketquCTJ0A7CRkMUHv7djJK/hgaUjPJiJ9TcFGfD/z372/pkHHPHjA3NDC93zdusACzpVEaCjkFR9v/OTICOB5P6QrthC/krBl49Ai+9/en1M1EiCZttiMixv9WdCaWGejSvYs+1uSTeJ7vzPnIUUD5BiZ3Yl7AyY3lO+W0ni3z7aiW9rb1bKnF4UxsintaZtIThabLkadfqdCcTsdfSRQljnxenUtHudB0MM//4DwdHd/I42600JxP5S/BIwlGo49DXq9IfnG4mkq50GTkU//N1oWFVRYtnaWlVwhAb6GBUPIXIfQCrNZLVLbpBcx7u71NkqR28rtDXSH9ukEARQgWHwmOUweCweQ5+S90yE4h5iLyoQAAAABJRU5ErkJggg=="></image>
+                    <image id="NShape" x="101" y="57" width="16" height="13" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAYAAACgu+4kAAAABGdBTUEAALGPC/xhBQAAAbZJREFUKBV1krFrU1EUxn/3viZ2KQqdRFKjYmleBkelCAVRx4KDHXQVRLCIk+DUP0BQXJwE6dhSEdvNyaEgbkqTKjVNYt2cpGJbk3dvv1tz0zSYA49zznfO+fjOPc98HedUtsNlDw/1XURmLXfSJi9DHKx2luO7GZM4rnjDA+PZxjBnDKvmXwvUiwz/cXzxntMqthLLtVKD97EefaXAEw3V0i1eBMzGwpkGuyo8FWsdT85lLG0UOBfr0duEd+r52M1jEHxgNjmm1bCtdUb3DMtBfm+Pc/xwOX5FrKsgAmmNNYG3ROakpLTTZsHfJIl1cuwl7jDvJ9AclL6zouUeHQx5rlc/8CwS2Iy2HjLfzWPQ78tNPZbhVcC1zv1qgXshtnlaPpOOjh1R4Hx4hh4b4a6Q1YA4eF4d42qSicAMIOgZPQjLFf4ey3NDSpoChkSy2GrrMm4QgWWkn+T8N34miS4Dv7XLCV1hORmowHOhnyDkE3U+y90WibZk1P9PQbXIJTXNHDlZmO5YeYu32v1xSL09XMGsF5mSrAnhs5J4Uk3h/543Q3xKN9nozHddZUw1y+u0wZsA7gOXpoJqQjAftwAAAABJRU5ErkJggg=="></image>
+                </g>
+                <g id="Group-2" transform="translate(186.500000, 50.500000) scale(-1, 1) rotate(-90.000000) translate(-186.500000, -50.500000) translate(174.500000, 32.000000)" fill-rule="nonzero" fill="#E5DFD4">
+                    <polygon id="Shape" points="5.7 13 24 31.301 18.399 36.902 0 18.6"></polygon>
+                    <polygon id="Shape" points="1.42108547e-14 18.4 18.4 2.84217094e-14 24 5.6 5.6 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(186.500000, 12.500000) rotate(90.000000) translate(-186.500000, -12.500000) translate(174.500000, -6.000000)" fill-rule="nonzero" fill="#E5DFD4">
+                    <polygon id="Shape" points="5.7 13 24 31.301 18.399 36.902 0 18.6"></polygon>
+                    <polygon id="Shape" points="1.42108547e-14 18.4 18.4 2.84217094e-14 24 5.6 5.6 24"></polygon>
+                </g>
+            </g>
+            <g id="Group-11" transform="translate(138.000000, 74.000000)">
+                <circle id="Oval-2" fill="#FFFFFF" cx="13" cy="13" r="13"></circle>
+                <rect id="Rectangle" fill="#706C67" transform="translate(13.000000, 13.000000) rotate(-270.000000) translate(-13.000000, -13.000000) " x="12" y="6" width="2" height="14"></rect>
+            </g>
+            <circle id="Oval-2" fill="#FFFFFF" cx="192" cy="87" r="13"></circle>
+            <g id="Rectangle">
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <path stroke="#979797" stroke-width="1" d="M191.5,80.5 L192.5,80.5 L192.5,92 L192.5,93.5 L191.5,93.5 L191.5,80.5 Z"></path>
+            </g>
+            <rect id="Rectangle" fill="#706C67" transform="translate(192.000000, 87.000000) rotate(-270.000000) translate(-192.000000, -87.000000) " x="191" y="80" width="2" height="14"></rect>
+        </g>
+    </g>
+</svg>
